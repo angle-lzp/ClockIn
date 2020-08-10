@@ -1,0 +1,13 @@
+com\angle\mapper\ClientMapper.class
+com\angle\web\controller\LoginController.class
+com\angle\domain\Info.class
+com\angle\service\IInfoService.class
+com\angle\service\impl\LoginServiceImpl.class
+com\angle\mapper\InfoMapper.class
+com\angle\domain\Client.class
+com\angle\service\ILoginService.class
+com\angle\web\controller\InfoController.class
+com\angle\service\impl\InfoServiceImpl.class
+com\angle\service\impl\UserDetailsServiceImpl.class
+com\angle\web\controller\BCryptPasswordDemo.class
+com\angle\domain\PageDate.class
